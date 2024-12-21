@@ -2,6 +2,8 @@
 
 This repository focuses on predicting heart disease outcomes using Decision Tree models. It showcases key insights, comparisons of feature importance, and learnings derived from practical applications of data science tools and libraries such as Scikit-learn, Pandas, and Matplotlib.
 
+![Heart Disease Prediction Using Decision Tree](heart-disease-prediction-dt.png)
+
 ---
 
 ## 🎯 Purpose

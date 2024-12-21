@@ -2,6 +2,8 @@
 
 This repository focuses on predicting housing prices using Decision Tree models. It highlights insights into feature importance, hyperparameter tuning, and learnings derived from practical applications of data science tools and libraries like Scikit-learn, Pandas, and Matplotlib.
 
+![Housing Price Prediction Using Decision Tree](housing-price-prediction-dt.png)
+
 ---
 
 ## 🎯 Purpose

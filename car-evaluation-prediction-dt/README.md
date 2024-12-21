@@ -2,6 +2,8 @@
 
 This project uses Decision Tree models to evaluate car acceptability based on various features like safety, maintenance cost, and capacity. The repository provides insights into feature importance, hyperparameter tuning, and decision-making processes using Scikit-learn, Pandas, and visualization libraries.
 
+![Car Evaluation Using Decision Tree](car-evaluation-prediction-dt.png)
+
 ---
 
 ### 🎯 Purpose
