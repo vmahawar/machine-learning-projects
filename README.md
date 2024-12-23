@@ -24,6 +24,10 @@ This repository consolidates multiple machine learning projects into a single re
 ### 6. [Car Evaluation Prediction Using Decision Tree](./car-evaluation-prediction-dt/)
 - **Description**: A project explors the car evluation datasets using Decision Tree models. It explores feature engineering, hyperparameter optimization, and regression modeling.
 
+### 7. [Home Loan Default Prediction Using Logistic Regression](./home-loan-default-prediction-logistic-regression/)
+- **Description**: This project focuses on predicting home loan default risks using logistic regression. It involves solving a critical business problem by identifying potential high-risk, medium-risk, and low-risk loan applicants. The project explores data preprocessing, feature engineering, and implementing multi-class classification using One-vs-Rest and One-vs-One strategies. Additionally, it delves into the mathematical concepts of logistic regression, including the sigmoid function and log-loss optimization. Key learnings include understanding logistic regression coefficients for feature importance, applying libraries like Scikit-learn, Pandas, and Matplotlib, and evaluating models using metrics such as accuracy, precision, recall, F1-Score.
+
+
 ---
 
 ## 🛠️ Tools and Libraries Used
