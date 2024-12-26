@@ -18,11 +18,15 @@ This repository consolidates multiple machine learning projects into a single re
 ### 4. [Heart Disease Prediction Using Decision Tree](./heart-disease-prediction-dt/)
 - **Description**: A project that utilizes Decision Tree models to predict heart disease outcomes. The project includes feature analysis, hyperparameter tuning, and model evaluation.
 
-### 5. [Housing Price Prediction Using Decision Tree](./housing-price-prediction-dt/)
-- **Description**: A project that predicts housing prices using Decision Tree models. It explores feature engineering, hyperparameter optimization, and regression modeling.
-
-### 6. [Car Evaluation Prediction Using Decision Tree](./car-evaluation-prediction-dt/)
+### 5. [Car Evaluation Prediction Using Decision Tree](./car-evaluation-prediction-dt/)
 - **Description**: A project explors the car evluation datasets using Decision Tree models. It explores feature engineering, hyperparameter optimization, and regression modeling.
+
+### 6. [Housing Price Prediction Using Decision Tree](./housing-price-prediction-dt/)
+[Housing Price Prediction Using Ensemble - Stacking Regressor](./housing-price-prediction-ensemble/)
+[Housing Price Prediction Using Ensemble - Random Forest](./housing-price-prediction-random-forest/)
+- **Description**: This project addresses the business problem of predicting housing prices with high accuracy, a critical requirement for stakeholders in the real estate sector. It employs a combination of regression models—linear regression, KNN regressor, and decision tree regressor—and enhances their predictive performance using the Decision Tree, Stacking Regressor and Random Forest from sklearn.ensemble. Key libraries used include pandas, numpy, matplotlib, seaborn, Scikit-learn, and statsmodels, showcasing expertise in data preprocessing, visualization, machine learning, and statistical modeling.
+
+The dataset, accessible here, forms the basis for this study. The models are evaluated using the R-squared metric, with statistical analysis performed through the OLS module from statsmodels. This project demonstrates the advantages of ensemble techniques and statistical rigor in deriving actionable insights for housing price prediction.
 
 ### 7. [Home Loan Default Prediction Using Logistic Regression](./home-loan-default-prediction-logistic-regression/)
 - **Description**: This project focuses on predicting home loan default risks using logistic regression. It involves solving a critical business problem by identifying potential high-risk, medium-risk, and low-risk loan applicants. The project explores data preprocessing, feature engineering, and implementing multi-class classification using One-vs-Rest and One-vs-One strategies. Additionally, it delves into the mathematical concepts of logistic regression, including the sigmoid function and log-loss optimization. Key learnings include understanding logistic regression coefficients for feature importance, applying libraries like Scikit-learn, Pandas, and Matplotlib, and evaluating models using metrics such as accuracy, precision, recall, F1-Score.
