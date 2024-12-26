@@ -1,4 +1,4 @@
-# Housing Price Prediction: Stacking Regressor and Regression Models
+# Housing Price Prediction: Ensemble Stacking Regressor and Regression Models
 
 A comprehensive case study on predicting housing prices using the Stacking Regressor from `sklearn.ensemble` alongside individual regression models such as linear regression, k-nearest neighbors (KNN) regressor, and decision tree regressor. The project focuses on leveraging ensemble learning techniques and statistical modeling for effective prediction.
 
