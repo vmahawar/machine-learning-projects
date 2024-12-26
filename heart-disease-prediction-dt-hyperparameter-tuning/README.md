@@ -2,7 +2,7 @@
 
 This repository focuses on predicting the likelihood of heart disease using Decision Tree models, incorporating hyperparameter tuning to optimize performance. It highlights insights into feature importance, parameter selection, and learnings derived from practical applications of data science tools and libraries like Scikit-learn, Pandas, and Matplotlib.
 
-![Heart Disease Prediction Using Decision Tree and Hyperparameter Tuning](heart-disease-prediction-dt.png)
+![Heart Disease Prediction Using Decision Tree and Hyperparameter Tuning](./heart-disease-prediction-dt-hyperparameter-tuning.png)
 
 ---
 
