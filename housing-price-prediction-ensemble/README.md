@@ -52,8 +52,6 @@ Explore the complete analysis and model building process for predicting housing 
 
 ---
 
----
-
 ## 🛠️ Tools and Libraries Used
 
 This project leverages the following tools and libraries:
