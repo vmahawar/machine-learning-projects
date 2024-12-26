@@ -1,4 +1,4 @@
-# RSVP Movies SQL Case Study
+# Bike Sharing Prediction Using Linear Regression
 In this project, I analyzed bike-sharing system data to predict user demand using Linear Regression. Key steps included data exploration, feature engineering, and model development to identify the relationship between environmental conditions and bike usage. The model provides actionable insights for optimizing bike availability and resource allocation.
 ![BoomBikes](./boombikes.png)
 
