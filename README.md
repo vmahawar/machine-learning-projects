@@ -15,14 +15,18 @@ This repository consolidates multiple machine learning projects into a single re
 ### 3. [Bike Sharing Prediction using Linear Regression](./bike-sharing-linear-regression/)
 - **Description**: In this project, I analyzed bike-sharing system data to predict user demand using Linear Regression. Key steps included data exploration, feature engineering (using manual and automatic like RFE), and model development to identify the relationship between environmental conditions and bike usage and performance evaluation. The model provides actionable insights for optimizing bike availability and resource allocation. I used libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-### 4. [Heart Disease Prediction Using Decision Tree](./heart-disease-prediction-dt/)
-- **Description**: A project that utilizes Decision Tree models to predict heart disease outcomes. The project includes feature analysis, hyperparameter tuning, and model evaluation.
-
-### 5. [Car Evaluation Prediction Using Decision Tree](./car-evaluation-prediction-dt/)
+### 4. [Car Evaluation Prediction Using Decision Tree](./car-evaluation-prediction-dt/)
 - **Description**: A project explors the car evluation datasets using Decision Tree models. It explores feature engineering, hyperparameter optimization, and regression modeling.
 
+### 5. [Heart Disease Prediction Using Decision Tree](./heart-disease-prediction-dt/)
+
+[Heart Disease Prediction and Hyperparameter Tuning](./heart-disease-prediction-dt-hyperparameter-tuning/)
+- **Description**: A project that utilizes Decision Tree models to predict heart disease outcomes. The project includes feature analysis, hyperparameter tuning, and model evaluation.
+
 ### 6. [Housing Price Prediction Using Decision Tree](./housing-price-prediction-dt/)
+
 [Housing Price Prediction Using Ensemble - Stacking Regressor](./housing-price-prediction-ensemble/)
+
 [Housing Price Prediction Using Ensemble - Random Forest](./housing-price-prediction-random-forest/)
 - **Description**: This project addresses the business problem of predicting housing prices with high accuracy, a critical requirement for stakeholders in the real estate sector. It employs a combination of regression models—linear regression, KNN regressor, and decision tree regressor—and enhances their predictive performance using the Decision Tree, Stacking Regressor and Random Forest from sklearn.ensemble. Key libraries used include pandas, numpy, matplotlib, seaborn, Scikit-learn, and statsmodels, showcasing expertise in data preprocessing, visualization, machine learning, and statistical modeling.
 
