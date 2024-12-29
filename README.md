@@ -30,12 +30,16 @@ This repository consolidates multiple machine learning projects into a single re
 [Housing Price Prediction Using Ensemble - Random Forest](./housing-price-prediction-random-forest/)
 - **Description**: This project addresses the business problem of predicting housing prices with high accuracy, a critical requirement for stakeholders in the real estate sector. It employs a combination of regression models—linear regression, KNN regressor, and decision tree regressor—and enhances their predictive performance using the Decision Tree, Stacking Regressor and Random Forest from sklearn.ensemble. Key libraries used include pandas, numpy, matplotlib, seaborn, Scikit-learn, and statsmodels, showcasing expertise in data preprocessing, visualization, machine learning, and statistical modeling.
 
-The dataset, accessible here, forms the basis for this study. The models are evaluated using the R-squared metric, with statistical analysis performed through the OLS module from statsmodels. This project demonstrates the advantages of ensemble techniques and statistical rigor in deriving actionable insights for housing price prediction.
+- The dataset, accessible here, forms the basis for this study. The models are evaluated using the R-squared metric, with statistical analysis performed through the OLS module from statsmodels. This project demonstrates the advantages of ensemble techniques and statistical rigor in deriving actionable insights for housing price prediction.
 
 ### 7. [Home Loan Default Prediction Using Logistic Regression](./home-loan-default-prediction-logistic-regression/)
 - **Description**: This project focuses on predicting home loan default risks using logistic regression. It involves solving a critical business problem by identifying potential high-risk, medium-risk, and low-risk loan applicants. The project explores data preprocessing, feature engineering, and implementing multi-class classification using One-vs-Rest and One-vs-One strategies. Additionally, it delves into the mathematical concepts of logistic regression, including the sigmoid function and log-loss optimization. Key learnings include understanding logistic regression coefficients for feature importance, applying libraries like Scikit-learn, Pandas, and Matplotlib, and evaluating models using metrics such as accuracy, precision, recall, F1-Score.
 
+### 8. [Country Clustering on Socio-Economic Factors](./country-clustering-on-socio-economic-factor/)
 
+- **Description**: This project focuses on grouping countries based on socio-economic and health-related indicators using clustering techniques. It addresses global development patterns by analyzing metrics like child mortality, exports, health expenditure, income, and GDP. The project covers data exploration, feature scaling, and implementing clustering algorithms such as K-Means and Hierarchical Clustering. It also provides insights into the evaluation of clustering performance and visualization of clusters. 
+
+- Key learnings include understanding feature normalization for clustering, interpreting cluster centroids, and applying tools like Scikit-learn, Pandas, and Matplotlib to build and analyze clustering models. The project highlights the significance of clustering for policy-making, identifying development disparities, and exploring socio-economic similarities among countries.
 ---
 
 ## 🛠️ Tools and Libraries Used

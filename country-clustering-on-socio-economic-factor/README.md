@@ -2,6 +2,8 @@
 
 This repository demonstrates how to use clustering techniques to analyze socio-economic and health-related indicators across countries. By leveraging data science tools and methodologies, the project aims to group countries based on similarities in various development metrics, providing insights into global disparities and patterns.
 
+![Country Clustering on Socio-Economic Factors](country-clustering-on-socio-economic-factor.png)
+
 ---
 
 ## 🎯 Purpose
