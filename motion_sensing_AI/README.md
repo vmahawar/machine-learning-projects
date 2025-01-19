@@ -12,13 +12,14 @@ This AIoT project utilizes an ESP32 microcontroller, an MPU6050 accelerometer/gy
 ### Required Software
 1. **VS Code**:
    - Install [Visual Studio Code](https://code.visualstudio.com/).
+   - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 
 2. **PlatformIO Extension**:
    - Install the PlatformIO IDE extension in VS Code.
    - Go to Extensions (Ctrl+Shift+X), search for "PlatformIO IDE," and install it.
 
 3. **Wokwi Simulator**:
-   - Install the Wokwi extension in VS Code to simulate ESP32 projects.
+   - Install the [Wokwi extension in VS Code](https://docs.wokwi.com/vscode/getting-started) to simulate ESP32 projects.
 
 4. **Python**:
    - Install Python (version >= 3.7).
@@ -30,7 +31,7 @@ This AIoT project utilizes an ESP32 microcontroller, an MPU6050 accelerometer/gy
 
 
 ### Required Python Libraries
-Install the following Python libraries:
+[Install the following Python libraries](https://packaging.python.org/en/latest/tutorials/installing-packages/):
 ```bash
 pip install pandas scikit-learn micromlgen
 ```
