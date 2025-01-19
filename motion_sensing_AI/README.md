@@ -62,7 +62,7 @@ This file ensures that the simulation environment mirrors the real-world hardwar
 ## Hardware Configuration
 
 ### Components Used
-1. **ESP32-S3 DevKitC-1**: Microcontroller board.
+1. **ESP32-S3**: Simulator was used to test the Model and IoT.
 2. **MPU6050**: Accelerometer and gyroscope sensor.
 3. **LCD1602**: 16x2 character LCD.
 4. **Potentiometer**: To adjust LCD brightness.
