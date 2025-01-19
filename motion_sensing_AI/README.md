@@ -212,7 +212,7 @@ Refer to the [`diagram.json`](./diagram/diagram.json) file to see the connection
 ---
 
 ## **Acknowledgments**
-This project was created by me under the guidance of the instructors of IIT Kharagpur for the course - **AIoT Hardware Design and Implmentation** under [IIT Kharagpur AI4ICPS Hub Foundation](https://www.ai4icps.in/). Special thanks to faculties Sourabh Mahapatra, Abhra Majumder sir and Deepak Joshi.
+This project was created by me under the guidance of the instructors of IIT Kharagpur for the course - **AIoT Hardware Design and Implmentation** under [IIT Kharagpur AI4ICPS Hub Foundation](https://www.ai4icps.in/). Special thanks to faculties Prof. Sourabh Mahapatra, Prof. Abhra Majumder sir and Prof. Deepak Joshi
 
 ---
 
