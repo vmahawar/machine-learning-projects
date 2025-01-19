@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "author": "Vijay",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-s3-devkitc-1", "id": "esp", "top": 287.82, "left": 62.17, "attrs": {} },
+    { "type": "wokwi-lcd1602", "id": "lcd1", "top": 70.63, "left": -252.8, "attrs": {} },
+    { "type": "wokwi-mpu6050", "id": "imu1", "top": 551.02, "left": -36.08, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": 353.9, "left": -144.2, "attrs": {} },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 291.95,
+      "left": -19.2,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "pot1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "pot1:VCC", "esp:5V", "red", [ "v0" ] ],
+    [ "pot1:SIG", "lcd1:V0", "green", [ "v19.2", "h-77.2" ] ],
+    [ "esp:GND.2", "lcd1:RW", "black", [ "v-67.2", "h-336" ] ],
+    [ "esp:3V3.1", "r1:2", "green", [ "v0" ] ],
+    [ "r1:1", "lcd1:A", "green", [ "v0", "h-86.4" ] ],
+    [ "esp:42", "lcd1:RS", "green", [ "h57.6", "v-124.8", "h-403.2" ] ],
+    [ "esp:40", "lcd1:E", "green", [ "h67.2", "v-124.8", "h-393.6" ] ],
+    [ "esp:36", "lcd1:D5", "green", [ "h76.8", "v-172.8", "h-345.6" ] ],
+    [ "esp:35", "lcd1:D4", "green", [ "h86.4", "v-163.2", "h-364.8" ] ],
+    [ "esp:45", "lcd1:D6", "green", [ "h96", "v-172.8", "h-355.2" ] ],
+    [ "esp:48", "lcd1:D7", "green", [ "h105.6", "v-172.8", "h-355.2" ] ],
+    [ "esp:GND.4", "lcd1:K", "black", [ "h115.2", "v-297.6", "h-345.6" ] ],
+    [ "lcd1:VDD", "esp:5V", "green", [ "v0" ] ],
+    [ "lcd1:VSS", "esp:GND.1", "green", [ "v0" ] ],
+    [ "imu1:SDA", "esp:8", "green", [ "v-134.4", "h9.68" ] ],
+    [ "imu1:SCL", "esp:9", "green", [ "v0" ] ],
+    [ "imu1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "imu1:VCC", "esp:3V3.2", "red", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
