@@ -211,8 +211,21 @@ Refer to the [`diagram.json`](./diagram/diagram.json) file to see the connection
 
 ---
 
+## **Acknowledgments**
+This project was created by me under the guidance of the instructors of IIT Kharagpur for the course - **AIoT Hardware Design and Implmentation** under [IIT Kharagpur AI4ICPS Hub Foundation](https://www.ai4icps.in/). Special thanks to faculties Sourabh Mahapatra, Abhra Majumder sir and Deepak Joshi.
+
+---
+
 ## Summary
 This project demonstrates how to build an AIoT system using ESP32 and MPU6050 for real-time motion classification. A special thanks to IIT Kharagpur AI4ICPS for conducting a workshop on AI and ML for PCB design, which provided the foundational knowledge and inspiration for creating this project. For more information, visit their website: [AI4ICPS](https://www.ai4icps.in/).
 
 ![Schematic Diagram](./images/AIoT-Hardware-Design-Implementation.png)
 
+---
+
+## 🌐 Connect with Me
+
+Feel free to connect, collaborate, or share feedback:
+
+- **LinkedIn**: [Vijay Mahawar](https://www.linkedin.com/in/vijay-mahawar)
+- **GitHub**: [vmahawar](https://github.com/vmahawar)
