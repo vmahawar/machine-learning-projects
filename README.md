@@ -40,6 +40,13 @@ This repository consolidates multiple machine learning projects into a single re
 - **Description**: This project focuses on grouping countries based on socio-economic and health-related indicators using clustering techniques. It addresses global development patterns by analyzing metrics like child mortality, exports, health expenditure, income, and GDP. The project covers data exploration, feature scaling, and implementing clustering algorithms such as K-Means and Hierarchical Clustering. It also provides insights into the evaluation of clustering performance and visualization of clusters. 
 
 - Key learnings include understanding feature normalization for clustering, interpreting cluster centroids, and applying tools like Scikit-learn, Pandas, and Matplotlib to build and analyze clustering models. The project highlights the significance of clustering for policy-making, identifying development disparities, and exploring socio-economic similarities among countries.
+
+### 9. [AIoT Project: Motion Sensing and Classification](./motion_sensing_AI/)
+
+- **Description**: This AIoT project utilizes an ESP32 microcontroller, an MPU6050 accelerometer/gyroscope sensor, an LCD display, and a potentiometer to build a real-time motion classification system. By leveraging a trained Random Forest machine learning model, the system identifies six different physical activities (e.g., bench press, overhead press, deadlift, squat, row, rest) and displays the results on the LCD. The system is designed for fitness tracking, sports performance monitoring, and real-time activity recognition. It integrates hardware and software to demonstrate a complete AIoT pipeline, from data collection and model training to deployment and visualization.
+
+- Key learnings include classify six physical activities in real time using a trained Random Forest model. It demonstrated the complete AIoT pipeline using libraries such as NumPy and Pandas for data manipulation, scikit-learn for model training, and Matplotlib for visualization. This project highlighted how AI and IoT can seamlessly integrate using simulated tools for real-time insights.
+
 ---
 
 ## 🛠️ Tools and Libraries Used
