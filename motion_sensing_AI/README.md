@@ -1,4 +1,5 @@
 # AIoT Project: Motion Sensing and Classification
+![Certificate of Merit](./images/2025-01-AI4ICP-IITKharagpur-AIoT-HW-Design-Implment.jpeg)
 
 ![motion-sensing-ai](./images/motion-sensing-ai.png)
 
